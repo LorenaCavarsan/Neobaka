@@ -1,0 +1,51 @@
+img, p1{
+    display: inline-block;
+    float: left;
+}
+img, p2{
+    display: inline-block;
+    float: left;
+}
+img, p3{
+    display: inline-block;
+    float: left;
+}
+img, p4{
+    display: inline-block;
+    float: left;
+}
+img, p5{
+    display:inline-block;
+    float: left;
+}
+body{
+    background-color: rgb(171, 227, 243);
+}
+footer{
+    color: rgb(0, 0, 0);
+    margin-left: 0%;
+    width: 510px;
+    border: 5px solid #79acfd;
+    border-radius: 10px;
+}
+hr{
+    color: rgb(130, 6, 6);
+}
+a{
+    color: rgb(224, 17, 200);
+}
+u{
+    color: rgb(135, 39, 224);
+}
+p{
+    color: rgb(18, 4, 146);
+}
+h1{
+    color: rgb(4, 22, 113);
+}
+h2{
+    color: rgb(58, 110, 188);
+}
+h3{
+    color: rgb(96, 28, 255);
+}
